@@ -11,7 +11,7 @@
 
 同时我也在代码中做了一些注释，得到的电流分布和方向图如下所示
 
-![电流分布](./graphs/Picture1.png "电流分布")
+![电流分布](./graphs/current.png "电流分布")
 
 
-![方向图](./graphs/Picture2.png "方向图")
+![方向图](./graphs/pattern.png "方向图")
